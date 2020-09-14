@@ -1,0 +1,52 @@
+body{
+    background-color:#a79117;
+}
+.header {
+    padding: 10px;
+    font-size: 45px;
+    text-align: center;
+    background:#a79117;
+  }
+.Grizzlies{
+    padding: 10px;
+    margin-left: auto;
+    text-align: left;
+    color: black;
+    font-size: 18px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+  }
+  h2.title{
+    font-family:cursive; 
+    font-size: 24px;
+  }
+  .Wings{
+    padding: 10px;
+    margin-left: auto;
+    text-align: left;
+    color: black;
+    font-size: 18px;
+  }
+  .coding{
+    padding: 10px;
+    margin-left: auto;
+    text-align: left;
+    color: black;
+    font-size: 18px;
+  }
+  h3.author{
+    font-size: 16px;
+  }
+h2.some-things{
+  font-size: 30px;
+}
+.footer {
+  text-align: center;
+  padding: 150px;
+  color:black;
+}
